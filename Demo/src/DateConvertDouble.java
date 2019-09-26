@@ -31,7 +31,7 @@ public class DateConvertDouble {
         System.out.println("dateV "+dateV);
 
         
-        String myString=Double.toString(myDouble);
+        //String myString=Double.toString(myDouble);
 
     }
 }
